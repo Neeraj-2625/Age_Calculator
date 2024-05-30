@@ -35,7 +35,12 @@ body{
     /* width: 50vw; */
     height: 15vh;
     margin: 2rem;
-    /* border: 2px solid beige; */
+    background-color: #F7C5CC;
+    border-radius: 2rem;
+}
+
+.input:hover{
+    box-shadow: 10px 10px #7A2048;
 }
 
 .input input{
